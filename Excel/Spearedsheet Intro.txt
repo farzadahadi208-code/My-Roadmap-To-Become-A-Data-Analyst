@@ -1,0 +1,14 @@
+Spreadsheet:
+It is where we manipulate the cells in Excels.
+Workbook:
+We can have many sheets in Excel we call all Workbook.
+Ribbon:
+It is where all options of excel sorted on top of screen.
+Tip:
+1-We use backspace button to remove the text in cell.
+2-We use delete button to remove the text in many selected cells.
+3-We can use formula bar to refer a specefic cell by its address.
+4-Autofill works when we use formula and address not oprente a operation in a cell like if we add 3+5 when 3 is located in
+first column and 5 is located in second column in third column autofill does not work but if use address like B2+C1 it does.
+5-We use the & to mearge two texts in one cell
+6-We can address the location from a cell to another cell by reffering to thire addresses like B6:C11.
